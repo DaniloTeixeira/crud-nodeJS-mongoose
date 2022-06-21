@@ -1,3 +1,3 @@
 # crud-nodeJS-mongoose
 
-# Projeto CRUD feito em Node JS, utilizando express e MongoDB
+## Projeto CRUD feito em Node JS, utilizando express e MongoDB Atlas
